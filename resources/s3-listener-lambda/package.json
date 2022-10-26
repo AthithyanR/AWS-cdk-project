@@ -1,0 +1,6 @@
+{
+  "name": "s3-listener-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
